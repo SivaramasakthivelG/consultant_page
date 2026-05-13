@@ -18,7 +18,6 @@ function BookingModal({ setShowModal }) {
     Consultation: "₹999",
     Portfolio: "₹1499",
   };
-  
 
   const handleServiceChange = (e) => {
     const value = e.target.value;
